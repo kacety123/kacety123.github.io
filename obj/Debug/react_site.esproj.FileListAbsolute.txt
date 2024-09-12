@@ -1,1 +1,2 @@
 C:\code\react_site\react_site\obj\Debug\react_site.esproj.CoreCompileInputs.cache
+C:\code\react_site1\obj\Debug\react_site.esproj.CoreCompileInputs.cache
